@@ -1,4 +1,6 @@
 {
-  "slack_bot_token":"xoxb-1219599731792-1204923197444-2FqGispNwQHTNaCiJe2JRS5R",
-  "slack_signing_secret":"f5f93e1ae2b3e6227e7391c660ad3b6d"
+  "slack_bot_token":"######",
+  "slack_signing_secret":"#####"
 }
+
+# Make use of your own Slack Bot Token and Slack Signing Secret through the Slack Developer Configurations page.
