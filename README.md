@@ -1,4 +1,7 @@
 # GIST
+
+![](GIST_logo_and_summary.png)
+
 GIST is an extractive text summarization and sentiment analysis tool making it easy for teams of people to get a "gist" or summary/analysis of what their co-workers are saying across their incredibly busy schedules.
 
 ## Note
@@ -11,7 +14,15 @@ Whether it be over long messages of text that seem endless or a bunch of shorter
 
 Simply call "@GIST summarize (username)" and get an analysis,
 
-## Example
+## Example: A Long List of Guidelines
 
+![](Long_List_Of_Guidelines.png)
 
+A quick and easy way to get the **gist** of things over a long transcript of **individual** messages.
+
+## Example: News Report
+
+![](Newsreport.png)
+
+A short **gist** of the news displayed in your Slack portal from another application or member.
 
