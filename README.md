@@ -16,7 +16,8 @@ Simply call "@GIST summarize (username)" and get an analysis,
 
 ## Example: A Long List of Guidelines
 
-![](Long_List_Of_Guidelines.png)
+![](guidelines.png)
+![](response.png)
 
 A quick and easy way to get the **gist** of things over a long transcript of **individual** messages.
 
