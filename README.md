@@ -1,9 +1,17 @@
-# Text-Summarization-SlackBot
-Developed an extractive text summarization tool to simplify long conversations between users along with the ability to gauge the sentiment of the user. Helps solve the problem of reading long groups of messages and being able to get the gist of the user in conversation.
+# GIST
+GIST is an extractive text summarization and sentiment analysis tool making it easy for teams of people to get a "gist" or summary/analysis of what their co-workers are saying across their incredibly busy schedules.
 
 ## Note
 In order to quickstart the use of this tool, an easy way is to use an NGROK pipeline to communicate between the script and Slack server.
 
+## How it works
+Simply add GIST to your workspace and get to use!
+
+Whether it be over long messages of text that seem endless or a bunch of shorter messages, you can easily ask GIST to get a quick summary and sentiment expressed by the user
+
+Simply call "@GIST summarize (username)" and get an analysis,
+
 ## Example
 
-- Many PMs and employees limited on time, don't have the ability to read lengthy information on Slack, looking for the ability to simply get a Gist of it.
+
+
