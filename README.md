@@ -3,3 +3,7 @@ Developed an extractive text summarization tool to simplify long conversations b
 
 ## Note
 In order to quickstart the use of this tool, an easy way is to use an NGROK pipeline to communicate between the script and Slack server.
+
+## Example
+
+- Many PMs and employees limited on time, don't have the ability to read lengthy information on Slack, looking for the ability to simply get a Gist of it.
